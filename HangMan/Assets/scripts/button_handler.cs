@@ -11,7 +11,7 @@ public class button_handler : MonoBehaviour
 
     public void single_player_play()
     {
-        SceneManager.LoadScene("Single_player");
+        SceneManager.LoadScene("singleplayer_setup");
     }
 
     public void multiplayer_play()
